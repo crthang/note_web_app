@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "558830210613",
+    "firebase_url": "https://noteapp-crthang.firebaseio.com",
+    "project_id": "noteapp-crthang",
+    "storage_bucket": "noteapp-crthang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558830210613:android:187da667b4cf0e10dc2b7c",
+        "android_client_info": {
+          "package_name": "com.example.note_web_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558830210613-99sqd48ti9ndjong0ural5edm6g1mtti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB19g9HRG8nDE7V68CfkBU34IK_DWvcvJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558830210613-99sqd48ti9ndjong0ural5edm6g1mtti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
