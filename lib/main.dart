@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:note_web_app/ui/views/login/login_view.dart';
 import 'package:note_web_app/ui/views/note/note_view.dart';
 
 void main() {
@@ -6,7 +7,6 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: NoteView(),
+      home: LoginView(),
     );
   }
 }
